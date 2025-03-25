@@ -1,0 +1,29 @@
+body{
+	/* background-color: green;
+	border: 10px black; 
+	text-align: center;*/
+	
+}
+h1{
+	color: tomato;
+}
+h2{
+	color:gray;
+}
+p{
+	color: red; 
+	border: 5px red;
+}
+table,th,td,tr{
+   width: 300px;
+   border:1px solid black;
+    border-collapse: collapse;
+}
+th { text-align: left;
+}
+ol{
+	list-style-type:upper-alpha;
+}
+ul{
+	list-style-type:square;
+}
